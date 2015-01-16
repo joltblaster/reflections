@@ -1,0 +1,4 @@
+How can you use the commands git log and git diff to view the history of files?
+
+    log shows all the versions and diff lets you see the changes between
+    two versions.
